@@ -32,3 +32,9 @@ from
 	select 2 as number, "김준이" as name, 32 as age
 	union all
 	select 2 as number, "김준이" as name, 32 as age) as temp_tb;
+    
+    
+    
+    
+    
+    
